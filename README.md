@@ -1,2 +1,11 @@
-# PRODIGY_WD_O1
-A modern SaaS landing page and dashboard UI built with Tailwind CSS. Designed to help teams boost productivity with sleek components, smooth scroll, dark mode support, and responsive layout.
+Attender is a responsive and theme-ready SaaS landing page built using HTML and Tailwind CSS. It features:
+
+Sticky navbar
+
+Dark mode support
+
+Fully responsive grid layout
+
+Reusable UI components
+
+Smooth scrolling navigation
