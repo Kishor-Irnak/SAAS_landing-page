@@ -16,9 +16,9 @@ Attender is a responsive and theme-ready SaaS landing page built using HTML and 
 Check out the live demo here:
 🌐 Live Demo:- https://kishor-irnak.github.io/PRODIGY_WD_O1/
 
+
 🛠️ Tech Stack
 HTML5
-
 Tailwind CSS
 
 
