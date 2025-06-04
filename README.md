@@ -1,11 +1,30 @@
-Attender is a responsive and theme-ready SaaS landing page built using HTML and Tailwind CSS. It features:
+Attender - SaaS Landing Page for Productivity Dashboard 🚀📊
+Attender is a responsive and theme-ready SaaS landing page built using HTML and Tailwind CSS. Designed to showcase your productivity dashboard product in a sleek, modern way.
 
-Sticky navbar
+✨ Features
+🧲 Sticky Navbar — Always visible for easy navigation
 
-Dark mode support
+🌙 Dark Mode Support — Switch between light and dark themes effortlessly
 
-Fully responsive grid layout
+📱 Fully Responsive Grid Layout — Looks great on all screen sizes, from mobiles to desktops
 
-Reusable UI components
+🔄 Reusable UI Components — Clean, modular design for easy customization
 
-Smooth scrolling navigation
+🧭 Smooth Scrolling Navigation — Seamless transition between sections on click
+
+📸 Preview
+Check out the live demo here:
+🌐 Live Demo:- 
+
+🛠️ Tech Stack
+HTML5
+
+Tailwind CSS
+
+
+🤝 Contributing
+Feel free to open issues or submit pull requests. Contributions are welcome!
+
+
+Made with ❤️ by Kishor Irnak
+
