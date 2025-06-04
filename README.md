@@ -17,8 +17,8 @@ Check out the live demo here:
 🌐 Live Demo:- https://kishor-irnak.github.io/PRODIGY_WD_O1/
 
 
-🛠️ Tech Stack
-HTML5
+🛠️ Tech Stack:-
+HTML5 &
 Tailwind CSS
 
 
