@@ -1,4 +1,4 @@
-Nexus- SaaS Landing Page for Productivity Dashboard 🚀📊
+SaaS Landing Page for Productivity Dashboard 🚀📊
 Attender is a responsive and theme-ready SaaS landing page built using HTML and Tailwind CSS. Designed to showcase your productivity dashboard product in a sleek, modern way.
 
 ✨ Features
